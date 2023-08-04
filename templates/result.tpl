@@ -1,6 +1,7 @@
 {include file="./inc/head.tpl"}
 <div class="container my-3">
     <div class="row m-0">
+    <h4 class="text-center">Result</h4>
         <div class="col-12 mx-0 d-flex justify-content-center my-4 row">
             <div class="col-md-2 text-center">
                 <div class="bg-white rounded shadow p-2 bg-opacity-25">

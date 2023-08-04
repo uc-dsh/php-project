@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.1, created on 2023-08-04 14:40:27
+/* Smarty version 4.3.1, created on 2023-08-04 14:58:38
   from 'C:\xampp\htdocs\UCERTIFY\php-assignment\templates\result.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_64ccc083249281_07900012',
+  'unifunc' => 'content_64ccc4c6b27422_64289636',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '4d794587868304abeb545b10a38c516f78f717f2' => 
     array (
       0 => 'C:\\xampp\\htdocs\\UCERTIFY\\php-assignment\\templates\\result.tpl',
-      1 => 1691139799,
+      1 => 1691141317,
       2 => 'file',
     ),
   ),
@@ -22,11 +22,12 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:./inc/footer.tpl' => 1,
   ),
 ),false)) {
-function content_64ccc083249281_07900012 (Smarty_Internal_Template $_smarty_tpl) {
+function content_64ccc4c6b27422_64289636 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_subTemplateRender("file:./inc/head.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
 ?>
 <div class="container my-3">
     <div class="row m-0">
+    <h4 class="text-center">Result</h4>
         <div class="col-12 mx-0 d-flex justify-content-center my-4 row">
             <div class="col-md-2 text-center">
                 <div class="bg-white rounded shadow p-2 bg-opacity-25">
