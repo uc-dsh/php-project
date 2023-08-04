@@ -77,7 +77,6 @@
     }
 
     if (answer_status_el) {
-        console.log("hii");
         if (answer_status_el.data("correct") === "yes") {
             $("#answer_status_container").html(`<span class="bg-success badge p-2 text-white answer_status">Correct</span>`);
         } else {
