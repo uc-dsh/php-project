@@ -45,3 +45,7 @@ body {
     right: 10px;
     bottom: 10px;
 }
+
+.navbar{
+    border-bottom: 1px solid rgb(206, 206, 206);
+}
