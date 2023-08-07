@@ -17,30 +17,31 @@ body {
     box-shadow: 2px 3px 4px #6a6a6a2d;
 }
 
-.answer_indicator{
-    width: 15px;
-    height: 16px;
+.answer_indicator {
+    width: 15px !important;
+    height: 16px !important;
     left: 5px;
     position: relative;
     margin-top: 12px;
 }
+
 .fs-smaller {
     font-size: 12px;
 }
 
-.fs-10{
+.fs-10 {
     font-size: 10px !important;
 }
 
-.w-min-60{
+.w-min-60 {
     width: 55vw;
 }
 
-#start_time{
+#start_time {
     width: 50px !important;
 }
 
-.end-10{
+.end-10 {
     right: 10px;
     bottom: 10px;
 }
